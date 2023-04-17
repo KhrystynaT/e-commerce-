@@ -4,7 +4,7 @@ const data = {
       name: "Pop Shirt",
       slug: "pop-shirt",
       category: "Shirts",
-      image: "/next-ecommerce/public/images/shirt1.jpg",
+      image: "/next-ecommerce/public/images/shirt1.webp",
       price: 70,
       brand: "Nike",
       rating: 4.5,
